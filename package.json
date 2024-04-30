@@ -22,10 +22,7 @@
   },
   "main": "index.js",
   "scripts": {
-    "build": "react-scripts build",
-    "eject": "react-scripts eject",
-    "start": "react-scripts start",
-    "test": "react-scripts test --env=jsdom"
+    "dev": "vite dev"
   },
   "title": "Form methods - antd@5.14.1"
 }
